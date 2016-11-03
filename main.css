@@ -17,3 +17,18 @@ a:hover{
     transition: all 500ms ease;
     font-size: 20px;
 }
+body {
+    background-image:url(bg.jpg);
+    background-repeat: no-repeat;
+}
+p {
+    background-color: rgba(235,167,221,0.7);
+    width: 50%;
+    font-size: 20px;  
+    border-radius: 10px;
+    color: #F3E3E3;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    
+}
